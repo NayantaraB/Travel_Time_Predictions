@@ -1,4 +1,4 @@
-# **Computing Travel time in Kolkata using Uber Movement data**
+# **Computing Travel Time in Kolkata using Uber Movement data**
 This is my final project for IDCE 30274: Programming for GIS where I use a tutorial to predict travel times in my home town, Kolkata in India. 
 
 I use aggreagted travel time data  for the first quarter from the first quarter of 2020 from the Here is an image on what the city of Kolkata, India looks like using the [Uber Movement](https://movement.uber.com/explore/kolkata/travel-times/query?si=128&ti=&ag=wards&dt[tpb]=ALL_DAY&dt[wd;]=1,2,3,4,5,6,7&dt[dr][sd]=2019-12-01&dt[dr][ed]=2019-12-31&cd=&sa;=&sdn=&lang=en-US). 
