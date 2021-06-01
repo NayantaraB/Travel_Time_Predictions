@@ -1,7 +1,7 @@
 # **Travel Time Predictions using Ubers and OSM in Kolkata**
 This is my final project for IDCE 30274: Programming for GIS where I use a tutorial to predict travel times in my home town, Kolkata in India. 
 
-I use aggreagted travel time data  for the first quarter from the first quarter of 2020 from the [Uber Movement](https://movement.uber.com/?lang=en-US).  
+I use aggreagted travel time data  for the first quarter from the first quarter of 2020 from the Here is an image on what the city of Kolkata, India looks like using the [Uber Movement](https://movement.uber.com/explore/kolkata/travel-times/query?si=128&ti=&ag=wards&dt[tpb]=ALL_DAY&dt[wd;]=1,2,3,4,5,6,7&dt[dr][sd]=2019-12-01&dt[dr][ed]=2019-12-31&cd=&sa;=&sdn=&lang=en-US). 
 
 
 ## Python pacakages used
@@ -13,7 +13,9 @@ I use aggreagted travel time data  for the first quarter from the first quarter 
 
 ### To code along you will need:
 - A Google account or a Python IDE. I use Colab, but this project uses a LOT of ram on your google drive, so it would be better to use a [Jupyter Notebook](https://jupyter.org/). 
-- Travel time data and city boundaries from the city of your choice using [Uber Movement](https://movement.uber.com/?lang=en-US). The city boundary for Kolkata is avaialble 
+- Travel time data and city boundaries from the city of your choice using [Uber Movement](https://movement.uber.com/?lang=en-US). The city boundary for Kolkata is avaialble in this repository as [kolkata_wards.json](https://github.com/NayantaraB/Travel_Time_Predictions/blob/main/kolkata_wards.json), but the travel time data was too large to upload and should be downloaded by the user. 
+
+
 
 # Getting started
 Before we get to the data, let's briefly touch on reading and writing comma-separated data, or data from `.csv` files. Comma-separated values is a way of expressing structured data in flat text files like this:
