@@ -8,7 +8,7 @@ I use aggreagted travel time data  for the first quarter from the first quarter 
 - [Pandas](https://pandas.pydata.org/): To read the `.csv` file containing travel time data.
 - [Geopandas](https://geopandas.org/): To read the `.json` file containing data on city boundaries. 
 - [Shapely](https://pypi.org/project/Shapely/): To analyze city boundaries. 
-- [Shapely](https://pypi.org/project/Shapely/): To display city boundaries.
+- [Matplotlib](https://matplotlib.org/): To display city boundaries.
 
 
 ### To code along you will need:
