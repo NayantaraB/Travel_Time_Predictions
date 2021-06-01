@@ -1,11 +1,10 @@
 # **Travel Time Predictions using Ubers and OSM in Kolkata**
 This is my final project for IDCE 30274: Programming for GIS where I use a tutorial to predict travel times in my home town, Kolkata in India. 
 
-I use aggreagted travel time data  for the first quartere from the first quarter of 2020 from the [Uber Movement](https://movement.uber.com/?lang=en-US).  
+I use aggreagted travel time data  for the first quarter from the first quarter of 2020 from the [Uber Movement](https://movement.uber.com/?lang=en-US).  
 
 ### To complete this assignment you will need:
-- A Google account. We'll be using Colab, but also space in your Google Drive: this will be nice example of hosting a small data science project with your own services.
-- Data downloaded from the [OpenFlights Project](https://openflights.org/data.html). If, for some reason you can't access the site or download the data, there is a [data folder in this repo](data) that contains archived data you could use. That being said, I want you to use the most recent data you can get!
+- A Google account or a Python IDE. I use Colab, but this project uses a LOT of ram on your google drive, so it would be better to use a [Jupyter Notebook] (https://jupyter.org/). 
 
 ### What you will submit:
 A link to your Github repo. The repo must contain your Python code (either as script in `.py` or a notebook in `.ipynb` format). There are four code challenges here, so be sure your code is well documented and shows us how you are solving each challenge! The `README` of your repo should briefly summarize the project (in your own words) and contain an embdded image of your final output. You do not need to include the data files you downloaded (as I have here), but can if you like. If you're going to use this repo as part of your portfolio I suggest that you include a "data" section in your readme that explains what data you've used and links to the pages where it can be downloaded (in fact, you can just copy that text from this repo!).
