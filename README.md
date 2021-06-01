@@ -1,5 +1,7 @@
-# **Analyzing Airport Data**
-In this assignment we're going to analyze aiport data. We'll be downloading some data in a common file format, exploring it using Python to discover the distances of certain flights, and then creating a basic [histogram](https://en.wikipedia.org/wiki/Histogram) as our final output.  
+# **Travel Time Predictions using Ubers and OSM in Kolkata**
+This is my final project for IDCE 30274: Programming for GIS where I use a tutorial to predict travel times in my home town, Kolkata in India. 
+
+I use aggreagted travel time data  for the first quartere from the first quarter of 2020 from the [Uber Movement](https://movement.uber.com/?lang=en-US).  
 
 ### To complete this assignment you will need:
 - A Google account. We'll be using Colab, but also space in your Google Drive: this will be nice example of hosting a small data science project with your own services.
