@@ -17,7 +17,7 @@ I use aggreagted travel time data  for the first quarter from the first quarter 
 - Travel time data and city boundaries from the city of your choice using [Uber Movement](https://movement.uber.com/?lang=en-US). The city boundary for Kolkata is avaialble in this repository as [kolkata_wards.json](https://github.com/NayantaraB/Travel_Time_Predictions/blob/main/kolkata_wards.json), but the travel time data was too large to upload and should be downloaded by the user. 
 
 ## Documentation:
-All codes and description is provided in the that can be downloaded from [kolkata_wards.json](https://github.com/NayantaraB/Travel_Time_Predictions/blob/main/kolkata_wards.json) in this repository and used directly in your preferred coding environmnet. 
+All codes and description is provided in the that can be downloaded from [travel_time_kolkata.ipynb](https://github.com/NayantaraB/Travel_Time_Predictions/blob/main/kolkata_wards.json) in this repository and used directly in your preferred coding environmnet. 
 
 # Credit
 This tutorial was inspired by a spatial data science/modelling tutorial on Travel Time Predictions by [Ujval Gandhi](https://github.com/spatialthoughts).
